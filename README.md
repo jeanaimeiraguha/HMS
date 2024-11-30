@@ -61,6 +61,10 @@ It works well for small clinics with basic needs.
 It can expand to large multi-specialty hospitals with multiple departments.
 How Everything Works Together:
 Patient: Starts with an appointment booking and enters their details into the system.
+
 Doctor: Reviews the patient's data, examines them, and prescribes medication if necessary.
 Pharmacy: Processes prescriptions, dispenses medication, or notifies admin to restock supplies.
 Admin: Accesses reports and oversees all operations.
+## AUTHOR
+** JEAN AIME IRAGUHA**
+## Admin password [admin123]
